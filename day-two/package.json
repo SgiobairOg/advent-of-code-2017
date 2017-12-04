@@ -1,0 +1,26 @@
+{
+  "name": "wilson-advent-day-two",
+  "version": "0.0.1",
+  "description": "Solution for day two of the 2017 advent of code.",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgiobairog/advent-2017-day-two.git"
+  },
+  "author": "Jason Wilson @wilsonuponsea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgiobairog/advent-2017-day-two/issues"
+  },
+  "homepage": "https://github.com/sgiobairog/advent-2017-day-two#readme",
+  "devDependencies": {
+    "eslint": "^4.12.1"
+  },
+  "dependencies": {
+    "file-api": "^0.10.4",
+    "filereader": "^0.10.3"
+  }
+}
